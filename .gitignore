@@ -1,0 +1,9 @@
+# Kept off the public repo until the client approves and pays:
+# source that can rebuild clean logos, clean files, and pages that embed them.
+/src/
+/logos/clean/
+/logos/watermarked/*.svg
+/.export/
+/index.html
+/artifact.html
+/current-logo.jpeg
